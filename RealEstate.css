@@ -1,0 +1,26 @@
+body {
+    background-color: #fffff2;
+    text : white;
+}
+.topright {
+    position: absolute;
+    top: 90px;
+    right: 10px;
+}
+h2 {
+    text-decoration: underline;
+}
+a:hover {
+    color: hotpink;
+}
+body {
+   background-image: url(Skyline.jpg);
+   background-color: #cccccc;
+   height: 820px;
+   width:  724px;
+}
+p{
+    color: white;
+}
+
+
